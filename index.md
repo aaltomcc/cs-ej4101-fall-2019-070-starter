@@ -13,3 +13,4 @@ And vulnerable rainforests full of wild life in Borneo:
 *I haven´t actually been studing computer science before. But this autumn I decided to take a beginner course in programming and this Introduction to DevOps course via opportunity that FiTech offers. 
 I want to keep improving myself learning new things keeps me going. I think that these skills will be important to master in future.*
 
+[Behind this link you can read my thoughts about this course](..aaltomcc/cs-ej4101-fall-2019-070-starter/diary-070)
